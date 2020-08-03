@@ -9,6 +9,15 @@
 
 ## Topics
 
+* Introduction to geospatial data. Main sources of information, data formats, examples. How to combine geospatial information with other sources of information. Refer to existing content in the Kit
+
+* How to get the data. 
+
+* How to visualize information using maps with [Datawrapper](https://www.datawrapper.de/maps/). Discuss point, bubble and choropleth map types, their uses, etc
+
+
+
+
 * Introduction to geospatial data analysis in Python, with a focus on tabular vector data. It first focuses on introducing the participants to the different libraries to work with geospatial data and will cover munging geo-data and exploring relations over space. This includes importing data in different formats (e.g. shapefile, GeoJSON), visualizing, combining and tidying them up for analysis, and will use libraries such as pandas, geopandas, shapely, PySAL, or rasterio. 
 
 * Copernicus es el programa civil de observación de la Tierra coordinado y gestionado por la Comisión Europea y la Agencia Europea del Medio Ambiente con el objetivo de proporcionar información precisa y actualizada en seis áreas temáticas:
