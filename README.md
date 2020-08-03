@@ -15,21 +15,23 @@
 
 * How to visualize information using maps with [Datawrapper](https://www.datawrapper.de/maps/). Discuss point, bubble and choropleth map types, their uses, etc
 
-
-
+![Maps with Datawrapper](https://raw.githubusercontent.com/alabarga/geospatial-python/master/img/datawrapper_maps.png)
 
 * Introduction to geospatial data analysis in Python, with a focus on tabular vector data. It first focuses on introducing the participants to the different libraries to work with geospatial data and will cover munging geo-data and exploring relations over space. This includes importing data in different formats (e.g. shapefile, GeoJSON), visualizing, combining and tidying them up for analysis, and will use libraries such as pandas, geopandas, shapely, PySAL, or rasterio. 
 
-* Copernicus es el programa civil de observación de la Tierra coordinado y gestionado por la Comisión Europea y la Agencia Europea del Medio Ambiente con el objetivo de proporcionar información precisa y actualizada en seis áreas temáticas:
-  - cambio climático 
-  - seguridad 
-  - gestión de emergencias 
-  - atmósfera
-  - ámbito terrestre
-  
-* El satélite Sentinel-5p de la Agencia Espacial Europea lleva a bordo el sensor TROPOMI. Este sensor permite monitorizar concentraciones de gases como el ozono, el metano, el monóxido de carbono, el dióxido de nitrógeno o el óxido de azufre. Con una resolución espacial de unos 7kmx7km, Sentinel-5p cubre diariamente toda la superfície terrestre. De este modo puede hacerse un seguimiento exhaustivo de la evolución de estos gases, y analizar episodios muy concretos.
+* Creating interactive maps with Python 
 
-* Acceso a Planet como empresa proveedora de imágenes de satélite y se enseñará paso a paso como usar Python notebooks en combinación con librerías de Planet y otras de tratamiento de imágenes para obtener un índice de vegetación (NDVI).
+* Analyzing satellite data
+  * Copernicus es el programa civil de observación de la Tierra coordinado y gestionado por la Comisión Europea y la Agencia Europea del Medio Ambiente con el objetivo de proporcionar información precisa y actualizada en seis áreas temáticas:
+    - cambio climático 
+    - seguridad 
+    - gestión de emergencias 
+    - atmósfera
+    - ámbito terrestre
+  
+  * El satélite Sentinel-5p de la Agencia Espacial Europea lleva a bordo el sensor TROPOMI. Este sensor permite monitorizar concentraciones de gases como el ozono, el metano, el monóxido de carbono, el dióxido de nitrógeno o el óxido de azufre. Con una resolución espacial de unos 7kmx7km, Sentinel-5p cubre diariamente toda la superfície terrestre. De este modo puede hacerse un seguimiento exhaustivo de la evolución de estos gases, y analizar episodios muy concretos.
+
+  * Acceso a Planet como empresa proveedora de imágenes de satélite y se enseñará paso a paso como usar Python notebooks en combinación con librerías de Planet y otras de tratamiento de imágenes para obtener un índice de vegetación (NDVI).
 
 ## References
 - [Copernicus, el programa de observación de la Tierra](https://www.unigis.es/copernicus-observacion-tierra/)
