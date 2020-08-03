@@ -17,6 +17,8 @@
 
 ![Maps with Datawrapper](https://raw.githubusercontent.com/alabarga/geospatial-python/master/img/datawrapper_maps.png)
 
+* Basic intro to Python for non-developers
+
 * Introduction to geospatial data analysis in Python, with a focus on tabular vector data. It first focuses on introducing the participants to the different libraries to work with geospatial data and will cover munging geo-data and exploring relations over space. This includes importing data in different formats (e.g. shapefile, GeoJSON), visualizing, combining and tidying them up for analysis, and will use libraries such as pandas, geopandas, shapely, PySAL, or rasterio. 
 
 * Creating interactive maps with Python 
