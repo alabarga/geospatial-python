@@ -36,6 +36,8 @@
   * Acceso a Planet como empresa proveedora de imágenes de satélite y se enseñará paso a paso como usar Python notebooks en combinación con librerías de Planet y otras de tratamiento de imágenes para obtener un índice de vegetación (NDVI).
 
 ## References
+- [Python for Journalists](https://github.com/winnydejong/pythonforjournalists)
+- [Coding for journalists](https://coding-for-journalists.readthedocs.io/en/latest/)
 - [Copernicus, el programa de observación de la Tierra](https://www.unigis.es/copernicus-observacion-tierra/)
 - [Mapping for Advocacy](https://www.opensocietyfoundations.org/publications/mapping-advocacy)
 - [Micro-satellite Data: Measuring Impact from Space](https://www.poverty-action.org/sites/default/files/publications/Goldilocks-Deep-Dive-Micro-satellite-Data-Measuring-Impact-from-Space_4.pdf)
