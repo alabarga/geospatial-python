@@ -3,7 +3,7 @@
 ## INSTALL REQUIREMENTS
 
 - Install [Python](https://www.python.org/downloads/)
-- Install required libraries: `pip install -r requirements.txt``
+- Install required libraries: `pip install -r requirements.txt`
 
 ## Topics
 
