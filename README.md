@@ -1,11 +1,9 @@
 # geospatial-python
 
-## Exposing the invisible Kit
+## INSTALL REQUIREMENTS
 
-- [Using Maps to See Beyond the Obvious](https://kit.exposingtheinvisible.org/en/how/maps.html)
-- [Maps for advocacy](https://exposingtheinvisible.org/resources/maps-advocacy) [Booklet](https://www.civicspace.eu/upload/library/maps-for-advocacy-5d628d1228e69.pdf)
-- [Seeing the world through Google's eyes](https://exposingtheinvisible.org/resources/seeing-the-world-through-googles)
-- [Starting satellite investigations](https://exposingtheinvisible.org/resources/obtaining-evidence/starting-satellite-investigations)
+- Install [Python](https://www.python.org/downloads/)
+- Install required libraries: `pip install -r requirements.txt``
 
 ## Topics
 
@@ -34,6 +32,14 @@
   * El satélite Sentinel-5p de la Agencia Espacial Europea lleva a bordo el sensor TROPOMI. Este sensor permite monitorizar concentraciones de gases como el ozono, el metano, el monóxido de carbono, el dióxido de nitrógeno o el óxido de azufre. Con una resolución espacial de unos 7kmx7km, Sentinel-5p cubre diariamente toda la superfície terrestre. De este modo puede hacerse un seguimiento exhaustivo de la evolución de estos gases, y analizar episodios muy concretos.
 
   * Acceso a Planet como empresa proveedora de imágenes de satélite y se enseñará paso a paso como usar Python notebooks en combinación con librerías de Planet y otras de tratamiento de imágenes para obtener un índice de vegetación (NDVI).
+
+## Exposing the invisible Kit
+
+- [Using Maps to See Beyond the Obvious](https://kit.exposingtheinvisible.org/en/how/maps.html)
+- [Maps for advocacy](https://exposingtheinvisible.org/resources/maps-advocacy) [Booklet](https://www.civicspace.eu/upload/library/maps-for-advocacy-5d628d1228e69.pdf)
+- [Seeing the world through Google's eyes](https://exposingtheinvisible.org/resources/seeing-the-world-through-googles)
+- [Starting satellite investigations](https://exposingtheinvisible.org/resources/obtaining-evidence/starting-satellite-investigations)
+
 
 ## References
 - [Python for Journalists](https://github.com/winnydejong/pythonforjournalists)
