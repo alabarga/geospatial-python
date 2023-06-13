@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Assets 
+assets/
+
+# Slides
+*.pptx
+*.odp 
 # Distribution / packaging
 .Python
 build/
