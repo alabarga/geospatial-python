@@ -1,9 +1,11 @@
 # geospatial-python
 
 ## INSTALL REQUIREMENTS
-
-- Install [Python](https://www.python.org/downloads/)
-- Install required libraries: `pip install -r requirements.txt`
+- Download or clone this repo
+- Install [Python 3.9](https://www.python.org/downloads/)
+- Install required libraries: `pip install -r workshops/siglibre-2023/requirements.txt`
+- Download datasets:
+  - [Mapa de cultivos y aprovechamientos de Navarra (2021)](https://idena.navarra.es/descargas/OCUPAC_Pol_MCA_VE2021.zip)
 
 ## Topics
 
