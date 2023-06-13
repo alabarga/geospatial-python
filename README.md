@@ -13,10 +13,6 @@
 
 * How to get the data. 
 
-* How to visualize information using maps with [Datawrapper](https://www.datawrapper.de/maps/). Discuss point, bubble and choropleth map types, their uses, etc
-
-![Maps with Datawrapper](https://raw.githubusercontent.com/alabarga/geospatial-python/master/img/datawrapper_maps.png)
-
 * Basic intro to Python for non-developers
 
 * Introduction to geospatial data analysis in Python, with a focus on tabular vector data. It first focuses on introducing the participants to the different libraries to work with geospatial data and will cover munging geo-data and exploring relations over space. This includes importing data in different formats (e.g. shapefile, GeoJSON), visualizing, combining and tidying them up for analysis, and will use libraries such as pandas, geopandas, shapely, PySAL, or rasterio. 
@@ -42,6 +38,11 @@
 - [Seeing the world through Google's eyes](https://exposingtheinvisible.org/resources/seeing-the-world-through-googles)
 - [Starting satellite investigations](https://exposingtheinvisible.org/resources/obtaining-evidence/starting-satellite-investigations)
 
+## Using Datawrapper
+
+* How to visualize information using maps with [Datawrapper](https://www.datawrapper.de/maps/). Discuss point, bubble and choropleth map types, their uses, etc
+
+![Maps with Datawrapper](https://raw.githubusercontent.com/alabarga/geospatial-python/master/img/datawrapper_maps.png)
 
 ## References
 - [Python for Journalists](https://github.com/winnydejong/pythonforjournalists)
