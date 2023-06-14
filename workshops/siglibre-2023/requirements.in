@@ -6,3 +6,12 @@ pystac_client
 mapclassify
 seaborn
 stacmap
+sentinelsat
+rasterstats
+xarray-spatial
+planetary_computer
+spyndex
+segment-geospatial
+leafmap
+localtileserver
+gdal
