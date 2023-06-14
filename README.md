@@ -4,9 +4,14 @@
 - Download or clone this repo
 - Install [Python 3.9](https://www.python.org/downloads/)
 - Install required libraries: `pip install -r workshops/siglibre-2023/requirements.txt`
+- CReate account in [Copernicus Open Access Hub](https://scihub.copernicus.eu/userguide/SelfRegistration)
 - Download datasets:
   - [Mapa de cultivos y aprovechamientos de Navarra (2021)](https://idena.navarra.es/descargas/OCUPAC_Pol_MCA_VE2021.zip)
-
+- Projects
+  - Segmentation
+    - https://github.com/AlbughdadiM/satellite-sam-dashboard/ (Clone or download)
+    - https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth (model)
+     
 ## Topics
 
 * Introduction to geospatial data. Main sources of information, data formats, examples. How to combine geospatial information with other sources of information. Refer to existing content in the Kit
