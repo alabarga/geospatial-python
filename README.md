@@ -8,8 +8,10 @@
 - Download datasets:
   - [Mapa de cultivos y aprovechamientos de Navarra (2021)](https://idena.navarra.es/descargas/OCUPAC_Pol_MCA_VE2021.zip)
 - Projects
-  - https://github.com/AlbughdadiM/satellite-sam-dashboard/ (Clone or download)
-  -  
+  - Segmentation
+    - https://github.com/AlbughdadiM/satellite-sam-dashboard/ (Clone or download)
+    - https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth (model)
+     
 ## Topics
 
 * Introduction to geospatial data. Main sources of information, data formats, examples. How to combine geospatial information with other sources of information. Refer to existing content in the Kit
